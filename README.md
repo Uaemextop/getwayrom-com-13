@@ -11,4 +11,4 @@
 | Skip media files | false |
 | Download only | true |
 | Run | #89 |
-| Status | 🔄 Crawling in progress… |
+| Status | ✅ Crawl complete |
